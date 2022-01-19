@@ -1,0 +1,36 @@
+header {
+	background-image: url(img/2csgo_u6p2.jpg);
+	height: 600px;
+}
+
+.block1 {
+	position: absolute;
+	left: 200px;
+	top: 100px;
+	font-size: 100px;
+	font-family: 'Dongle', sans-serif;
+	color: DeepSkyBlue;
+	
+}
+
+html {
+	font-family: sans-serif;
+}
+
+.opisanya {
+	background-color: DarkOliveGreen;
+}
+
+.ImagesTitle {
+	font-size: 65px;
+	background-color: red;
+}
+
+.Images{
+	background-color: grey;
+}
+
+footer{
+	background-color: black;
+	color: white;
+}
